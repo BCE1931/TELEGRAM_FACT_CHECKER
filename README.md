@@ -45,6 +45,6 @@ just run it in colab just by uploading the notebook file(You will still have to 
 **2. Clone & Install:**
 
 ```bash
-git clone https://github.com/ganesh2004/Newsfactcheckerbot.git
+git clone https://github.com/BCE1931/TELEGRAM_FACT_CHECKER.git
 cd Newsfactcheckerbot
 pip install -r requirements.txt 
